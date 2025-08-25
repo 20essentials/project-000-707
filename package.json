@@ -1,0 +1,16 @@
+{
+  "name": "eleventy",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Proving Eleventy pure",
+  "scripts": {
+    "build": "eleventy",
+    "serve": "eleventy --serve",
+    "watch": "eleventy --watch"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@11ty/eleventy": "3.0.0"
+  }
+}
